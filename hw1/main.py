@@ -134,7 +134,7 @@ class MLPRegressor:
 # mlp_reg = MLPRegressor(hidden_layer_sizes=(16,), learning_rate=0.00001)
 # mlp_reg = MLPRegressor(hidden_layer_sizes=(64, 32), learning_rate=0.001, max_iter=1000, epochs=10)
 # mlp_reg = MLPRegressor(hidden_layer_sizes=(4,), learning_rate=0.001, max_iter=4000, batch_size=X_train.shape[0]//8) # -352 и график убывающий
-mlp_reg = MLPRegressor(hidden_layer_sizes=(1, ), learning_rate=0.001, max_iter=4000, batch_size=800)
+mlp_reg = MLPRegressor(hidden_layer_sizes=(40, 30), learning_rate=0.0001, max_iter=4000, batch_size=800)
 
 mlp_reg.train(X_train, y_train)
 
