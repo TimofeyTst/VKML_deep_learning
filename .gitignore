@@ -2,3 +2,6 @@
 */MNIST/*
 *MNIST*
 *.csv
+__pycache__
+*/data/seminar_objdet_retina_oi5_ball/*
+seminar_objdet_retina_oi5_ball*
