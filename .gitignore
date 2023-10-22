@@ -4,6 +4,7 @@
 *.csv
 __pycache__
 */data/seminar_objdet_retina_oi5_ball/*
+*/data/models/*
 seminar_objdet_retina_oi5_ball*
 weights*
 tmp*
