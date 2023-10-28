@@ -5,6 +5,11 @@
 __pycache__
 */data/seminar_objdet_retina_oi5_ball/*
 */data/models/*
+*/data/VOC/*
+*/data/light*
 seminar_objdet_retina_oi5_ball*
 weights*
 tmp*
+
+*/VOC2012_/*
+*/VOCdevkit/*

@@ -1,6 +1,9 @@
 # Deep Learning course
 
 ## Hw 6 About
+## Data
+Данные можно скачать по ссылке: https://disk.yandex.ru/d/D-q6ahy6j8Jfow
+
 hw6/cv_train_night - файл без переопределения функции collate_fn, таргеты такие, какие нужны pytorch
 hw6/cv_train - файл с переопределением функции collate_fn, попыткой таргетов равных [N, 5]
 
