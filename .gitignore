@@ -13,3 +13,6 @@ tmp*
 
 */VOC2012_/*
 */VOCdevkit/*
+pytorch-diffusion
+hw12/data
+hw12/lightning_logs
